@@ -1,0 +1,15 @@
+C:\Curso\EstartandoDevs\ProjetoAulas\bin\Debug\net10.0\ProjetoAulas.exe
+C:\Curso\EstartandoDevs\ProjetoAulas\bin\Debug\net10.0\ProjetoAulas.deps.json
+C:\Curso\EstartandoDevs\ProjetoAulas\bin\Debug\net10.0\ProjetoAulas.runtimeconfig.json
+C:\Curso\EstartandoDevs\ProjetoAulas\bin\Debug\net10.0\ProjetoAulas.dll
+C:\Curso\EstartandoDevs\ProjetoAulas\bin\Debug\net10.0\ProjetoAulas.pdb
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.AssemblyInfo.cs
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.sourcelink.json
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.dll
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\refint\ProjetoAulas.dll
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.pdb
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ProjetoAulas.genruntimeconfig.cache
+C:\Curso\EstartandoDevs\ProjetoAulas\obj\Debug\net10.0\ref\ProjetoAulas.dll
